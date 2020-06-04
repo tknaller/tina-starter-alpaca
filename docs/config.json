@@ -4,7 +4,14 @@
       "type": "link",
       "slug": "main-doc-test",
       "title": "Main doc test",
-      "children": []
+      "children": [
+        {
+          "type": "link",
+          "slug": "main-doc-test/Child-doc-test",
+          "title": "Child doc test",
+          "children": []
+        }
+      ]
     },
     {
       "type": "link",
