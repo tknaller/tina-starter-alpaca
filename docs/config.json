@@ -2,19 +2,6 @@
   "config": [
     {
       "type": "link",
-      "slug": "main-doc-test",
-      "title": "Main doc test",
-      "children": [
-        {
-          "type": "link",
-          "slug": "main-doc-test/Child-doc-test",
-          "title": "Child doc test",
-          "children": []
-        }
-      ]
-    },
-    {
-      "type": "link",
       "key": "getting-started",
       "slug": "getting-started",
       "title": "Getting Started",
@@ -150,6 +137,19 @@
               "title": "Complement Sub 4"
             }
           ]
+        }
+      ]
+    },
+    {
+      "type": "link",
+      "slug": "main-doc-test",
+      "title": "Main doc test",
+      "children": [
+        {
+          "type": "link",
+          "slug": "main-doc-test/Child-doc-test",
+          "title": "Child doc test",
+          "children": []
         }
       ]
     }
