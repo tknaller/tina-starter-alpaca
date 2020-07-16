@@ -33,7 +33,7 @@
     "moment": "^2.24.0",
     "next": "^9.3.3",
     "next-svgr": "^0.0.2",
-    "next-tinacms-github": "^0.2.1",
+    "next-tinacms-github": "^0.2.1-alpha.0",
     "next-tinacms-json": "^0.3.24-alpha.0",
     "next-tinacms-markdown": "^0.2.24-alpha.0",
     "node-sass": "^4.13.1",

@@ -6405,10 +6405,10 @@ next-tick@~1.0.0:
   resolved "https://registry.yarnpkg.com/next-tick/-/next-tick-1.0.0.tgz#ca86d1fe8828169b0120208e3dc8424b9db8342c"
   integrity sha1-yobR/ogoFpsBICCOPchCS524NCw=
 
-next-tinacms-github@^0.2.1:
-  version "0.2.1"
-  resolved "https://registry.yarnpkg.com/next-tinacms-github/-/next-tinacms-github-0.2.1.tgz#eecfa0656751e5500c7f7872d33b555e09dc6454"
-  integrity sha512-VlyEPs2ezTeCcGnayTWF/sNW1avgPAA0m7Z9RGAkfnf/N37ejIFQST7Y/5Qk4LvL+9bbselrQ2RDoWjd58QjDw==
+next-tinacms-github@^0.2.1-alpha.0:
+  version "0.2.1-alpha.0"
+  resolved "https://registry.yarnpkg.com/next-tinacms-github/-/next-tinacms-github-0.2.1-alpha.0.tgz#645a7f5221c343dfc6138f49e3de776a19a03de4"
+  integrity sha512-er5PZow8zHmlAuxYN0q0AZSpn4yybaGB65n+UdyeTJkOrMeUNtn3d4Nv3rifgjJnhF64PJ+m5XvFZwxdYtMiVw==
   dependencies:
     atob "2.1.2"
     axios "0.19.2"
