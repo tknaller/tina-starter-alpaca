@@ -5,8 +5,6 @@ position: 0
 ---
 Tina Starter Alpaca is a NextJS documentation responsive theme, easily customizable and hosted on Vercel.
 
-test
-
 Go to [https://tina-starter-alpaca.now.sh](https://tina-starter-alpaca.now.sh/ "https://tina-starter-alpaca.now.sh/") to give it a spin.
 
 ## Blocks
